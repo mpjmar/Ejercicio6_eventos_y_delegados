@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Ejercicio6_eventos_y_delegados/Ejercicio_1_Sistema_de_Registro_y_Notificacion_de_Ventas.csproj" />
+  <Project Path="Ejercicio_2_Sistema_de_Control_de_Temperatura_en_un_Invernadero/Ejercicio_2_Sistema_de_Control_de_Temperatura_en_un_Invernadero.csproj" Id="80f6d94f-2ff0-4cb4-a0c1-10b113fd46fe" />
+  <Project Path="Ejercicio_3_Sistema_de_Backup_y_Notificacion_de_Archivos/Ejercicio_3_Sistema_de_Backup_y_Notificacion_de_Archivos.csproj" Id="00474b5c-baae-43f7-b191-0421e05639bf" />
+  <Project Path="Ejercicio_4_Sistema_de_Monitoreo_de_Sensores_de_Puertas_y_Ventanas/Ejercicio_4_Sistema_de_Monitoreo_de_Sensores_de_Puertas_y_Ventanas.csproj" Id="caa3367d-e754-43d6-8a51-adafa78461db" />
+  <Project Path="Ejercicio_5_Sistema_de_Supervision_de_Consumo_de_Energia/Ejercicio_5_Sistema_de_Supervision_de_Consumo_de_Energia.csproj" Id="c107282b-fd71-4a5c-9888-f84b54ad06ab" />
+</Solution>
